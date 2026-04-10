@@ -1,0 +1,30 @@
+# Personal / Business — never publish
+RSR/
+Chronicle/
+Research/
+JobForcast/
+Projects/
+SaaS-Roadmap/
+Agents/
+Clive/
+
+# Obsidian workspace files (machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Large binary files — images are referenced by URL not stored in repo
+# (contributors use the URLs in frontmatter, not local copies)
+Assets/Images/*.jpg
+Assets/Images/*.png
+Assets/Images/*.gif
+Assets/Artifacts/*.jpg
+Assets/Artifacts/*.png
+Assets/Artifacts/*.gif
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Canvas files (Obsidian visual boards — personal)
+*.canvas
