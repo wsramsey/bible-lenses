@@ -28,3 +28,25 @@ Thumbs.db
 
 # Canvas files (Obsidian visual boards — personal)
 *.canvas
+
+# Financial and credential data — never publish
+*.env
+*.env.*
+*credentials*
+*secrets*
+*tokens.json
+*config.json
+finances/
+accounting/
+quickbooks/
+stripe-sync/
+plaid-sync/
+google-sync/
+twilio-sync/
+
+# Any file containing sensitive patterns (belt and suspenders)
+# These patterns would only match filenames, not content:
+*truist*
+*invoice-data*
+*client-list*
+*payroll*
