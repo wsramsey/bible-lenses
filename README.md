@@ -143,3 +143,25 @@ No paid APIs were used in building the vault itself. Everything is reproducible 
 ---
 
 *"The aim of Christian thought is not to provide answers but to deepen the questions." — adapted from Rilke*
+
+
+## Denominational Agents (in progress)
+
+Bible Lenses is now growing beyond a static theology vault into a **tradition-agent framework**.
+
+The repo now includes early agent definitions for:
+- Anglican
+- Reformed
+- Catholic
+- Orthodox
+- Pentecostal
+
+These are not meant to be shallow roleplay skins. The goal is to build agents that answer from a shared theological source base while reasoning through each tradition's own:
+- authority model
+- doctrinal center of gravity
+- hermeneutic instincts
+- moral grammar
+- view of sin, sanctification, and eternal life
+- pastoral tone and reflexes
+
+See: `Agents/` and `App-Spec/Knowledge-OS/`
