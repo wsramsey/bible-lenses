@@ -165,3 +165,16 @@ These are not meant to be shallow roleplay skins. The goal is to build agents th
 - pastoral tone and reflexes
 
 See: `Agents/` and `App-Spec/Knowledge-OS/`
+
+
+## Top-Level Theology Structure
+
+For easier browsing, the repo now exposes visible top-level folders for the major theological layers:
+- `Beliefs/`
+- `Hermeneutics/`
+- `Traditions/`
+- `Worldviews/`
+- `Development-Histories/`
+- `Lived-Implications/`
+- `Figures/`
+- `Agents/`
